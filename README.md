@@ -1,2 +1,4 @@
 # Study-of-Financial-Data
-Project for the first half of 2021
+2021 Group Project hosted by Han Yi-eum.
+
+ハン·イウム主催の2021年グループプロジェクト
